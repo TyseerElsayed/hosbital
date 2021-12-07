@@ -1,1 +1,1 @@
-hosbital.git  
+hospital.git  
